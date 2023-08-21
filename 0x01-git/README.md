@@ -1,1 +1,1 @@
-My first readme
+updating the README.md file from the github.com
